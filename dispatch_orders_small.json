@@ -1,0 +1,32 @@
+[
+    {
+        "id": "a8cfcb76-7f24-4420-a5ba-d46dd77bdffd", 
+        "name": "Banana Split", 
+        "prepTime": 4
+    }, 
+    {
+        "id": "58e9b5fe-3fde-4a27-8e98-682e58a4a65d", 
+        "name": "McFlury", 
+        "prepTime": 14
+    },
+    {
+        "id": "0d841704-92a0-44e1-aaf8-02a8ee920775",
+        "name": "Mac & Cheese",
+        "prepTime": 4
+    },
+    {
+        "id": "7f89b973-d4fd-4d6e-a279-afc2db6b3304",
+        "name": "Corn Dog",
+        "prepTime": 11
+    },
+    {
+        "id": "2a23c77f-3ee3-4a52-8810-93e73df4e887", 
+        "name": "Grilled Corn Salad", 
+        "prepTime": 7
+    }, 
+    {
+        "id": "4f304b59-6634-4558-a128-a8ce12b1f818", 
+        "name": "Pistachio Ice Cream", 
+        "prepTime": 3
+    }
+]
