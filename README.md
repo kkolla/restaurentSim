@@ -1,1 +1,1 @@
-# restaurentSim
+# A restaurent simulator.
